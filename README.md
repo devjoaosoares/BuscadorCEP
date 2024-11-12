@@ -2,3 +2,4 @@
 
 API utilizada : https://viacep.com.br <br>
 Foi utilizado React na aplicação e o Vercel para Hospedagem do Projeto
+Deploy: https://buscador-cep-6ju7.vercel.app
